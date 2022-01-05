@@ -1,0 +1,27 @@
+h1{
+    color:white;
+    text-align: center;
+    font-size: 58px;
+}
+body{
+    background-color: black;
+}
+h2{
+    font-size: 50px;
+    color:white;
+}
+.bangladesh{
+    color:white;
+    font-family: cursive;
+}
+.top-side{
+    display: flex;
+}
+.down-ward img{
+    width: 500px;
+    height: 250px;
+}
+.half-width{
+    width:50%;
+    padding-left: 2%;
+}
